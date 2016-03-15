@@ -1,5 +1,6 @@
 rivi1
 rivi2
+lisäsin tähän turhan rivin!
 rivi2.5
 rivi3
 tämä rivi näkyy vain masterissa
