@@ -3,4 +3,3 @@ rivi2
 lisäsin tähän turhan rivin!
 rivi2.5
 rivi3
-Tämä riv näkyy vain master-haarassa
